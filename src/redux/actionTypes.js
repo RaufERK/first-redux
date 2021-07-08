@@ -1,0 +1,8 @@
+export const TYPES = {
+  CHANGE_100: 'CHANGE_100',
+  CHANGE_200: 'CHANGE_200',
+  INC: 'INC',
+  DEC: 'DEC',
+  SET_USERS: 'SET_USERS',
+  DELETE_USER: 'DELETE_USER'
+};
